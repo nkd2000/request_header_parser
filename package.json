@@ -1,0 +1,26 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "freecode camp chalange 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkd2000/request_header_parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkd2000/request_header_parser/issues"
+  },
+  "homepage": "https://github.com/nkd2000/request_header_parser#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "request-ip": "^3.3.0",
+    "so": "^1.0.1"
+  }
+}
