@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nkd2000/request_header_parser#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "request-ip": "^3.3.0",
     "so": "^1.0.1"
